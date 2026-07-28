@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="pt-8">
+  <head>
+    <title>Entre em contato connoscos</title>
+  </head>
+  <body>
+  <h1>Fale com agente</h1>
+  <p>duvidas , sugestoes ou choramingos</p>
+  <form>
+    <label for="nome">nome</label>
+    <input id="nome">
+    <label for="email">email</label>
+    <input id="email">
+    <label for="mensagem">mensagem</label>
+    <textarea id="mensagem"></textarea>
+    <input type="submit"value="enviar">
+  </form>
+  </body>
+  </html>
